@@ -14,7 +14,7 @@ Conçu comme une interface de terminal haute fidélité à encre électronique (
 ### 1. La Matrice Calendaire (13 Mois • 28 Jours)
 Le calendrier s'affranchit des irrégularités civiles pour proposer une symétrie mathématique absolue :
 * **Régularité Cosmique** : L'année compte exactement 364 jours divisés en 13 mois de 28 jours.
-* **Alignement Perpétuel** : Tous les mois débutent rigoureusement un **Lundi** et s'achèvent un **Dimanche**.
+* **Alignement Perpétuel** : Tous les mois débutent rigoureusement un **Lundi** et s'achèvent un **Dimanche**.(avec bientôt un renommage)
 * **Planificateur Intégré** : Un agenda dynamique permet de programmer des événements sur les cycles décimaux d'une journée, avec import/export `JSON`.
 * **Pont Civil (ICS)** : Un pipeline d'export génère instantanément un fichier de traduction `.ics` pour synchroniser la grille du CNU avec Google Calendar, Apple Calendar ou Outlook.
 
